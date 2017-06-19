@@ -1,0 +1,8 @@
+C:\Users\MUDIHAL\Documents\Visual Studio 2010\Projects\SRHCampus\SRHCampus\bin\SRHCampus.dll
+C:\Users\MUDIHAL\Documents\Visual Studio 2010\Projects\SRHCampus\SRHCampus\bin\SRHCampus.pdb
+C:\Users\MUDIHAL\Documents\Visual Studio 2010\Projects\SRHCampus\SRHCampus\bin\SRHCampus.xml
+C:\Users\MUDIHAL\Documents\Visual Studio 2010\Projects\SRHCampus\SRHCampus\obj\Debug\SRHCampus.Resources.resources
+C:\Users\MUDIHAL\Documents\Visual Studio 2010\Projects\SRHCampus\SRHCampus\obj\Debug\SRHCampus.vbproj.GenerateResource.Cache
+C:\Users\MUDIHAL\Documents\Visual Studio 2010\Projects\SRHCampus\SRHCampus\obj\Debug\SRHCampus.dll
+C:\Users\MUDIHAL\Documents\Visual Studio 2010\Projects\SRHCampus\SRHCampus\obj\Debug\SRHCampus.xml
+C:\Users\MUDIHAL\Documents\Visual Studio 2010\Projects\SRHCampus\SRHCampus\obj\Debug\SRHCampus.pdb
